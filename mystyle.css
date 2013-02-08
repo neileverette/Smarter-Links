@@ -4,3 +4,13 @@
     font-weight: 700;
     font-size: 1.5em;
 	}
+	
+h1{
+	text-transform: uppercase;
+	text-align: center;
+	}
+	
+#myCounter{
+	text-transform: uppercase;
+	text-align: center;
+}
