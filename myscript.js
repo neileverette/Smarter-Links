@@ -21,7 +21,7 @@ function addOne() {
     } else {
         counter++;
     }
-    myCounter.innerHTML = "The count is " + counter; // sets the correct PNG image
+    myCounter.innerHTML = "Image " + counter; // sets the correct PNG image
     setImage(counter);
     return false;
 
@@ -33,7 +33,7 @@ function minusOne() {
     } else {
         counter--;
     }
-    myCounter.innerHTML = "The count is " + counter;
+    myCounter.innerHTML = "Image " + counter;
     setImage(counter);
     return false;
 }
